@@ -44,7 +44,7 @@ jobs:
         mkdir -p /opt/图像/
     -名称： 构建胶原
       环境：
-        名称：名称：K2
+        名称：名称：K2P
         内核：3.4
       运行：|
         cd /opt/rt-n56u/trunk
